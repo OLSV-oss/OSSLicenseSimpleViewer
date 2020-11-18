@@ -8,4 +8,4 @@ This viewer uses a data set, named as Logical Disassembling Data. The concept wa
 In OSSLicenseSimpleViewer.xlsm file, we have manual sheet. Please finish preparation following the guidance.
 
 # License
-OSS License Simple Viewer is licensed under the MIT License. This tool is provided on an "AS IS" bases without any warranties. See LICENSE.pdf for details.
+OSS License Simple Viewer is licensed under the MIT License. This tool is provided on an "AS IS" bases without any warranties. See LICENSE(https://github.com/OLSV-oss/OSSLicenseSimpleViewer/blob/main/LICENSE) for details.
