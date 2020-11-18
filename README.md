@@ -5,7 +5,8 @@ OSS License Simple Viewer is a simple Excel-based tool as OSS license reference 
 This viewer uses a data set, named as Logical Disassembling Data. The concept was defined by Hitachi, Ltd. on GitHub(https://github.com/Hitachi/open-license). You can download and use Hitachi's sample data, or use your original data in the same format.
 
 # How to Use
-In OSSLicenseSimpleViewer.xlsm file, we have manual sheet. Please finish preparation following the guidance.
+OSSLicenseSimpleViewer.xlsm file is the main part of OSS License Viewer, it includes the manual sheet written in both English and Japanese.
+Please download OSSLicenseSimpleViewer.xlsm, open the file and see the manual. then finish preparation following the guidance.
 
 # License
 OSS License Simple Viewer is licensed under the MIT License. This tool is provided on an "AS IS" bases without any warranties. See <a href="https://github.com/OLSV-oss/OSSLicenseSimpleViewer/blob/main/LICENSE">LICENSE</a> for details.
